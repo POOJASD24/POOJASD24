@@ -12,7 +12,7 @@ AI Enthusiast | Backend Developer | Research-Oriented Engineer
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=14B8A6&center=true&vCenter=true&width=550&lines=Machine+Learning;Backend+Architecture;Intelligent+Systems;Structured+Engineering" />
 </p>
 
-<br/>
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
@@ -27,9 +27,6 @@ AI Enthusiast | Backend Developer | Research-Oriented Engineer
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
-<br/>
-
 <hr style="border: 1px solid #e0e0e0;"/>
 
 ---
@@ -49,10 +46,6 @@ I enjoy building structured, research-driven solutions and continuously expandin
 - Database Systems (SQL & NoSQL)  
 - Research-Oriented System Development  
 - Analytical Thinking & Problem Solving  
-
----
-
-## 🛠 Tech Stack
 
 ---
 
