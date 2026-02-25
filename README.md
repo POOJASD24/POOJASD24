@@ -88,8 +88,6 @@ I enjoy building structured, research-driven solutions and continuously expandin
 
 ---
 
----
-
 ## 🎓 Education
 
 **B.E. in Computer Science & Engineering**  
