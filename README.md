@@ -51,27 +51,45 @@ I enjoy building structured, research-driven solutions and continuously expandin
 
 ---
 
-## 🛠 Tech Stack
+---
 
-### 💻 Programming
+<h2 align="center">🛠 Tech Stack</h2>
+
+<br/>
+
+<h3 align="center">💻 Programming Languages</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
-### 🌐 Web & Backend
+<br/>
+
+<h3 align="center">🌐 Web & Backend</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,nodejs" />
 </p>
 
-### 🗄 Databases
+<br/>
+
+<h3 align="center">🗄 Databases</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙ Tools & Platforms
+<br/>
+
+<h3 align="center">⚙ Tools & Platforms</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,figma,vscode" />
 </p>
+
+<br/>
+
+---
 
 ---
 
