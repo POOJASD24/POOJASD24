@@ -56,8 +56,8 @@ CGPA: 9.4
 ## 🌐 Connect With Me
 
 📧 poojasdoddagoudar@gmail.com  
-🔗 LinkedIn: (Add link)  
-🌍 Portfolio: (Add link)
+🔗 LinkedIn: www.linkedin.com/in/pooja-s-doddagoudar-250753285
+🌍 Portfolio: https://poojasd24.github.io/portfolio/
 
 ---
 
