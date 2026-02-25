@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Pooja S Doddagoudar 👩‍💻</h1>
-<hr style="border: 1px solid #e0e0e0;"/>
+<!-- <hr style="border: 1px solid #e0e0e0;"/> -->
 
 <!-- <h2 align="center" style="color:#14B8A6; font-weight:500;">
 AI Enthusiast | Backend Developer | Research-Oriented Engineer
@@ -26,7 +26,7 @@ AI Enthusiast | Backend Developer | Research-Oriented Engineer
 
 <br/>
 
-<hr style="border: 1px solid #e0e0e0;"/>
+<!-- <hr style="border: 1px solid #e0e0e0;"/> -->
 
 ## 👩‍💻 About Me
 
