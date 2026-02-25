@@ -48,35 +48,29 @@ I enjoy building structured, research-driven solutions and continuously expandin
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
 ### 🌐 Web & Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-6A0DAD?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-4B0082?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-6A0DAD?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,nodejs,mongodb" />
 </p>
 
-### 🗄 Database & Analytics
+### 🗄 Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ⚙ Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-6A0DAD?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-4B0082?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github,git,figma,vercel" />
 </p>
-
 ---
 
 ## 🎓 Education
