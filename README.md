@@ -14,7 +14,7 @@ AI Enthusiast | Backend Developer | Research-Oriented Engineer
   <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- &nbsp;&nbsp; -->
+  &nbsp;&nbsp;
   <a href="mailto:poojasdoddagoudar@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
