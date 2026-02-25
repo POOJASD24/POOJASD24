@@ -1,31 +1,44 @@
-<!-- ================= DARK GRADIENT HEADER ================= -->
+<!-- ================= PREMIUM HEADER ================= -->
 
 <h1 align="center">
-  <span style="background: linear-gradient(90deg,#7F00FF,#00DBDE,#7F00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">
+  <span style="background: linear-gradient(90deg,#7F00FF,#00DBDE,#FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 800;">
     Pooja S Doddagoudar
   </span>
 </h1>
 
-<h3 align="center">AI Enthusiast | Computer Science Student | Research-Oriented Developer</h3>
+<h3 align="center" style="color:#9D00FF;">
+  AI Enthusiast • Computer Science Student • Research-Oriented Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&size=24&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Research-Driven+Developer;Backend+Architecture+Explorer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&size=24&center=true&vCenter=true&width=600&lines=Backend+Architecture+Explorer;Building+Intelligent+Systems;Research-Driven+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<br/>
+
+<!-- ================= PREMIUM BUTTONS ================= -->
+
+<p align="center">
+  <a href="mailto:poojasdoddagoudar@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=BB00FF&labelColor=000000"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=BB00FF&labelColor=000000"/>
+  </a>
+
+  <a href="https://poojasd24.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=BB00FF&labelColor=000000"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="mailto:poojasdoddagoudar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://poojasd24.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<!-- ================= AI DIVIDER ================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00DBDE&height=2"/>
+</p>
 ---
 
 ## 👩‍💻 About Me
