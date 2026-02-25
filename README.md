@@ -24,9 +24,7 @@ AI Enthusiast | Backend Developer | Research-Oriented Engineer
   </a>
 </p>
 
-<br/>
-
-<!-- <hr style="border: 1px solid #e0e0e0;"/> -->
+<hr style="border: 1px solid #e0e0e0;"/> 
 
 ## 👩‍💻 About Me
 
