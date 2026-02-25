@@ -86,7 +86,7 @@ CGPA: 9.4
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=POOJASD24&theme=tokyo-night&hide_border=true"/>
