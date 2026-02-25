@@ -16,23 +16,26 @@
 
 <br/>
 
+--- 
+
 <!-- ================= PREMIUM BLOCK BUTTONS ================= -->
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:poojasdoddagoudar@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://poojasd24.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
+
 ---
 
 ## 👩‍💻 About Me
