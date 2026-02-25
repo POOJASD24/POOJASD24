@@ -71,7 +71,8 @@ I enjoy building structured, research-driven solutions and continuously expandin
 ### ⚙ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,figma,vscode" />
-</p>>
+</p>
+
 ---
 
 ## 🎓 Education
