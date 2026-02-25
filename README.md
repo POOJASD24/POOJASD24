@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pooja
 
-<!--
-**POOJASD24/POOJASD24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a strong academic background (CGPA: 9.4) and hands-on experience in AI and software development.  
+I am passionate about building structured, research-driven solutions and continuously improving my technical depth.
 
-Here are some ideas to get you started:
+With experience as an AI Intern, I have worked on developing intelligent systems, building APIs, and deploying real-time solutions. I enjoy solving complex problems and contributing meaningfully to collaborative environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Expertise
+
+- Artificial Intelligence & Machine Learning Foundations  
+- Backend Development & API Design  
+- Database Management (SQL & NoSQL)  
+- Research-Oriented Development  
+- Problem Solving & Analytical Thinking  
+
+I aim to combine technical excellence with structured thinking to build scalable and impactful systems.
+
+---
+
+## 🛠 Tech Stack
+
+**Programming:**  
+Python • C • Java  
+
+**Web & Backend:**  
+HTML • CSS • JavaScript • Flask • MongoDB  
+
+**Database & Analytics:**  
+MySQL • MongoDB • Power BI  
+
+**Core Concepts:**  
+OOP • Data Structures • DBMS • Computer Networks  
+
+**Tools & Platforms:**  
+GitHub • Jira • Figma • Canva  
+
+---
+
+## 🎓 Education
+
+B.E. in Computer Science & Engineering  
+CGPA: 9.4  
+
+---
+
+## 🏆 Leadership & Activities
+
+- Secretary – Toastmasters Club  
+- Volunteer & Academic Mentor  
+- Active participant in technical and research initiatives  
+
+---
+
+## 🌐 Connect With Me
+
+📧 poojasdoddagoudar@gmail.com  
+🔗 LinkedIn: (Add link)  
+🌍 Portfolio: (Add link)
+
+---
+
+⭐ Focused on growth, research, and building meaningful technology.
