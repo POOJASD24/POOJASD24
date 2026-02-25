@@ -101,6 +101,14 @@ CGPA: 9.4
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📊 Contribution Heatmap
 
 <p align="center">
