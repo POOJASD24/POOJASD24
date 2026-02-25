@@ -101,25 +101,21 @@ CGPA: 9.4
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Contribution Heatmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/POOJASD24/POOJASD24/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://ghchart.rshah.org/00FF00/POOJASD24" />
 </p>
 
 ---
-
----
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=200&section=header&text=%E2%80%9CI%20believe%20intelligent%20systems%20should%20simplify%20complexity%2C%20not%20create%20it.%E2%80%9D&fontSize=20&fontColor=00FF66&animation=fadeIn"/>
 </p>
 
-<p align="right" style="color:#888888;">
+<!-- <p align="right" style="color:#888888;">
 — Pooja S Doddagoudar
-</p>
+</p> -->
 
 <br/>
 
