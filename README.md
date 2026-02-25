@@ -8,7 +8,7 @@ AI Enthusiast | Backend Developer | Research-Oriented Engineer
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=14B8A6&center=true&vCenter=true&width=550&lines=Machine+Learning;Backend+Architecture;Intelligent+Systems;Structured+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=14B8A6&center=true&vCenter=true&width=550&lines=Machine+Learning;Backend+Architecture;Intelligent+Systems;Structured+Engineering" />AI Enthusiast | Backend Developer | Research-Oriented Engineer
 </p>
 
 <br/>
