@@ -1,41 +1,30 @@
-<!-- ================= PREMIUM HEADER ================= -->
+<h1 align="left">Hello, I'm Pooja S Doddagoudar 👩‍💻</h1>
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg,#7F00FF,#00DBDE,#FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: 800;">
-    Pooja S Doddagoudar
-  </span>
-</h1>
+<hr/>
 
-<h3 align="center" style="color:#9D00FF;">
-  AI Enthusiast • Computer Science Student • Research-Oriented Developer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&size=24&center=true&vCenter=true&width=600&lines=Backend+Architecture+Explorer;Building+Intelligent+Systems;Research-Driven+Developer;Always+Learning+New+Technologies" />
-</p>
+<h2 align="center" style="color:#14B8A6; font-weight:500;">
+AI Enthusiast | Backend Developer | Research-Oriented Engineer
+</h2>
 
 <br/>
-
---- 
-
-<!-- ================= PREMIUM BLOCK BUTTONS ================= -->
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
-  <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:poojasdoddagoudar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://poojasd24.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
+<br/>
 ---
 
 ## 👩‍💻 About Me
