@@ -16,22 +16,23 @@
 
 <br/>
 
-<!-- ================= PREMIUM BUTTONS ================= -->
+<!-- ================= PREMIUM BLOCK BUTTONS ================= -->
 
 <p align="center">
-  <a href="mailto:poojasdoddagoudar@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=BB00FF&labelColor=000000"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=BB00FF&labelColor=000000"/>
-  </a>
+<a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
 
-  <a href="https://poojasd24.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=BB00FF&labelColor=000000"/>
-  </a>
+<a href="mailto:poojasdoddagoudar@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+
+<a href="https://poojasd24.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/>
+</a>
+
 </p>
-
 ---
 
 ## 👩‍💻 About Me
