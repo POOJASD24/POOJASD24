@@ -1,5 +1,4 @@
 <h1 align="left">Hello, I'm Pooja S Doddagoudar 👩‍💻</h1>
-
 <hr style="border: 1px solid #e0e0e0;"/>
 
 <h2 align="center" style="color:#14B8A6; font-weight:500;">
