@@ -52,8 +52,6 @@ I enjoy building structured, research-driven solutions and continuously expandin
 ---
 ## 🛠 Tech Stack
 
-<br/>
-
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
