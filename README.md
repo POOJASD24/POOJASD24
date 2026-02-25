@@ -1,80 +1,83 @@
-<h1 align="center">Hi 👋, I'm Pooja S Doddagoudar</h1>
-<h3 align="center">AI Enthusiast | Computer Science Student | Research-Oriented Developer</h3>
+<!-- ================= DARK AI BANNER ================= -->
 
 <p align="center">
-  <a href="mailto:poojasdoddagoudar@gmail.com">📧 Email</a> •
-  <a href="www.linkedin.com/in/pooja-s-doddagoudar-250753285">🔗 LinkedIn</a> •
-  <a href="https://poojasd24.github.io/portfolio/">🌐 Portfolio</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Pooja%20S%20Doddagoudar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- ================= TYPING EFFECT ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=26&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Research-Oriented+Developer;Backend+Explorer;Building+Intelligent+Systems" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+<!-- ================= MATRIX RAIN ================= -->
 
-I am a Computer Science student with a strong academic foundation (CGPA: 9.4) and hands-on experience in AI and software development.  
-
-I enjoy building structured, research-driven solutions and continuously expanding my technical expertise in intelligent systems, backend development, and scalable architectures.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 🚀 Core Expertise
+<!-- ================= AI DIVIDER ================= -->
 
-- Artificial Intelligence & Machine Learning Foundations  
-- Backend Development & API Design  
-- Database Systems (SQL & NoSQL)  
-- Research-Oriented System Development  
-- Analytical Thinking & Problem Solving  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750741-3d50d5b7-1d0e-4b07-8f7f-7e0f3dcb2c75.gif" width="800"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+I am a Computer Science student with a strong academic foundation (CGPA: 9.4) and hands-on experience in AI-driven system development.
+
+I focus on building intelligent, structured, and scalable architectures backed by research and analytical thinking.
+
+---
+
+## 🚀 AI Expertise
+
+- Machine Learning Foundations  
+- Intelligent Backend Systems  
+- API Engineering  
+- SQL & NoSQL Databases  
+- Research-Based Development  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🗄 Database & Analytics
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### ⚙ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,flask,mongodb,mysql,github,figma" />
 </p>
 
 ---
 
-## 🎓 Education
+<!-- ================= 3D NEURAL NETWORK SVG ================= -->
 
-**B.E. in Computer Science & Engineering**  
-CGPA: 9.4  
-
----
-
-## 🏆 Leadership
-
-- Secretary – Toastmasters Club  
-- Volunteer & Academic Mentor  
-- Active participant in technical & research initiatives  
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500"/>
+</p>
 
 ---
 
-⭐ Focused on research, continuous growth, and building impactful technology.
+## 📈 AI Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=POOJASD24&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
+<!-- ================= UNIQUE CONTRIBUTION STYLE ================= -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=POOJASD24&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+<p align="center">
+  🌌 Designing the future through Artificial Intelligence & Structured Engineering.
+</p>
