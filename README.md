@@ -50,10 +50,7 @@ I enjoy building structured, research-driven solutions and continuously expandin
 - Analytical Thinking & Problem Solving  
 
 ---
-
----
-
-<h2 align="center">🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
 <br/>
 
