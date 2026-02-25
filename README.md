@@ -90,4 +90,3 @@ CGPA: 9.4
 
 ---
 
-⭐ Focused on growth, research, and building meaningful technology.
