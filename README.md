@@ -34,13 +34,6 @@
 
 ---
 
-<!-- ================= AI DIVIDER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00DBDE&height=2"/>
-</p>
----
-
 ## 👩‍💻 About Me
 
 I am a Computer Science student with a strong academic foundation (CGPA: 9.4) and hands-on experience in AI and software development.
