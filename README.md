@@ -11,7 +11,7 @@ AI Enthusiast | Backend Developer | Research-Oriented Engineer
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pooja-s-doddagoudar-250753285">
+  <a href="www.linkedin.com/in/poojasdoddagoudar">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
